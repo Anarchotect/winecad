@@ -1,0 +1,9 @@
+## 
+# https://ftp-master.debian.org/keys/archive-key-12.asc
+
+Types: deb
+URIs: http://deb.debian.org/debian
+Suites: bookworm
+Components: main contrib non-free non-free-firmware
+Signed-By: /etc/apt/keyrings/debian.gpg
+

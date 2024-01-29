@@ -1,0 +1,10 @@
+## https://dl.winehq.org/wine-builds/debian 
+# https://dl.winehq.org/wine-builds/winehq.key
+
+Types: deb
+URIs: https://dl.winehq.org/wine-builds/debian
+Suites: bookworm
+Architectures: amd64 i386
+Components: main
+Signed-By: /etc/apt/keyrings/wine.gpg
+
